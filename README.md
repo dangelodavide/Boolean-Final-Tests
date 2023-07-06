@@ -5,6 +5,31 @@
 This repository contains all my final tests
 <br><br>
 
+## Installation
+
+To download the complete repository or a single folder, follow the steps below:
+
+### Complete Repository
+
+1. Open the terminal on your computer.
+2. Navigate to the directory where you want to download the repository.
+3. Run the following command:
+
+```
+git clone [REPOSITORY URL]
+```
+
+### Single Folder
+
+1. Open the terminal on your computer.
+2. Navigate to the directory where you want to download the repository folder.
+3. Run the following commands:
+
+```
+git clone [REPOSITORY URL]
+cd [FOLDER NAME]
+```
+
 <h3>
 Important Warning: Responsible use of my repository ⛔️</h3>
 
